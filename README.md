@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=33surya66" alt="33surya66" /></a> </p>
 <h3 align="left">Connect with me:</h3>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="583c6ade-4fef-402d-8bae-4408c1c97a3b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![Credly Badge](https://www.credly.com/badges/583c6ade-4fef-402d-8bae-4408c1c97a3b/public_url)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://in.linkedin.com/in/surya-ravi-70a32524b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/surya-ravi-70a32524b" height="30" width="40" /></a>
