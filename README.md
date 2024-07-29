@@ -91,7 +91,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=33surya66&show_icons=true&locale=en&layout=compact" alt="33surya66" />
 <img align="left" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihabtmwxYTLD0dntb6j1VOXBPHayNYKGf3Hd8UeRK3sl5_t_V1bewVXa68Yfd_aUa5zI5g2yoPTGpE2kT5AkrH8dpxXMJGnV3EQ=w1366-h679"width="120" height="120" /></p>
-<img align="left" href="https://www.credly.com/badges/7afaa4f8-f43d-4dff-aad3-be0af91c0d82/public_url" src="https://images.credly.com/size/340x340/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png" width="120" height="120" /></p>
+<p><img align="left" href="https://www.credly.com/badges/7afaa4f8-f43d-4dff-aad3-be0af91c0d82/public_url" src="https://images.credly.com/size/340x340/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png" width="120" height="120" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=33surya66&show_icons=true&
 
