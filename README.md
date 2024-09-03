@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Surya Chandra Prakash Ravi</h1>
 <h3 align="center">A passionate Data Science and Cybersecurity enthusiast from India</h3>
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align=right>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=33surya66&label=Profile%20views&color=0e75b6&style=flat" alt="33surya66" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=33surya66" alt="33surya66" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=33surya66" alt="33surya66" /></a><img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align=right height="30" width="40"> </p>
 
 - 🔭 I’m currently working on **Time Series Analysis**
 
