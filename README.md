@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=33surya66&label=Profile%20views&color=0e75b6&style=flat" alt="33surya66" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=33surya66" alt="33surya66" /></a><img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align=right height="30" width="40"> </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=33surya66" alt="33surya66" /></a> </p>
+<p><img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align=right height="300" width="400">
 - 🔭 I’m currently working on **Time Series Analysis**
 
 - 🌱 I’m currently learning **Ethical hacking and data engineering**
@@ -14,6 +14,7 @@
 - 📫 How to reach me **surya03.ravi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+</p>
 <p align="left">
 <a href="https://linkedin.com/in/surya-ravi-70a32524b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya-ravi-70a32524b/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/surya03_ravi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="surya03_ravi" height="30" width="40" /></a>
