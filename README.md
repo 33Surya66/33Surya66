@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=33surya66&label=Profile%20views&color=0e75b6&style=flat" alt="33surya66" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=33surya66" alt="33surya66" /></a> </p>
-<p><img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align=right height="300" width="400">
+<p><img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align=right height="250" width="350">
 - 🔭 I’m currently working on **Time Series Analysis**
 
 - 🌱 I’m currently learning **Ethical hacking and data engineering**
