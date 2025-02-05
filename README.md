@@ -1,5 +1,5 @@
 <img src="https://github.com/33Surya66/33Surya66/blob/main/intro_Surya.gif" alt="👋 Hi there! I'm Surya" title="👋 Hi there! I'm Surya" height="250" width="1050"/>
-<h1 align="center">Hi 👋, I'm Surya Chandra Prakash Ravi</h1>
+<h1 align="center"></h1>
 <h3 align="center">A passionate Data Science and Cybersecurity enthusiast from India</h3>
 <div align="justify">
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=33surya66&label=Profile%20views&color=0e75b6&style=flat" alt="33surya66" /> </p> -->
