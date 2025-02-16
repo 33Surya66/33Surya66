@@ -160,7 +160,7 @@
 </table>
 
 <h3 align="left">GitHub Profile Trophy 🏆</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=33surya66&theme=darkhub&title=-Reviews" alt="33surya66" height="150" width="1050"/></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=33surya66&theme=darkhub&title=-Reviews,Issues" alt="33surya66" height="150" width="1050"/></a> </p>
 <h3 align="left">Badges and Certifications:</h3>
 <p>
     <a href="https://www.credly.com/badges/583c6ade-4fef-402d-8bae-4408c1c97a3b/public_url"> <img align="left" src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width="120" height="120" /></a><a href="https://www.credly.com/badges/8103b7d2-563f-451c-8b4d-5e662c54eb85/public_url"><img align="left" src="https://images.credly.com/images/cbe961ef-3536-47a1-be43-14c461a3216e/image.png" width="130" height="130" /></a><a href="https://www.credly.com/badges/7afaa4f8-f43d-4dff-aad3-be0af91c0d82/public_url"> <img align="left" src="https://images.credly.com/size/340x340/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png" width="120" height="120" /></a><a href="https://www.credly.com/badges/04f33da6-309a-4af6-aa51-2d7ab8d425a8/public_url"><img align="left" src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="130" height="130" /></a>
