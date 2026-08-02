@@ -230,10 +230,10 @@
  </tr>
 </table>-->
 
-<h3 align="left">GitHub Stats 📊</h3>
+<!-- <h3 align="left">GitHub Stats 📊</h3>
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=33Surya66&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+</p> -->
 
 <!-- <h3 align="left">GitHub Profile Trophy 🏆</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=33surya66&theme=darkhub&title=-Reviews,-Issues" alt="33surya66" height="150" width="1050"/></a> </p> -->
